@@ -1,0 +1,150 @@
+[2023-10-12 15:55:06,784][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[1]/div/div[1]/input')
+[2023-10-12 15:55:06,893][base_page.py 52][INFO]: 输入的内容为：test11
+[2023-10-12 15:55:06,893][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[2]/div/div[1]/input')
+[2023-10-12 15:55:06,987][base_page.py 52][INFO]: 输入的内容为：123456
+[2023-10-12 15:55:06,987][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[3]/div/button')
+[2023-10-12 15:55:07,034][base_page.py 65][INFO]: 点击按钮
+[2023-10-12 15:55:07,034][base_page.py 28][INFO]: 当前定位：('xpath', '/html/body/div[2]/p')
+[2023-10-12 15:55:07,647][base_page.py 146][INFO]: 元素是('xpath', '/html/body/div[2]/p')的文本为登录用户：test11 不存在
+[2023-10-12 15:55:07,648][assert_utils.py 12][INFO]: 预期结果：登录用户：test11 不存在 == 登录用户：test11 不存在
+[2023-10-12 15:55:07,648][assert_utils.py 30][INFO]: 断言成功
+[2023-10-12 15:55:07,653][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[1]/div/div[1]/input')
+[2023-10-12 15:55:07,709][base_page.py 52][INFO]: 输入的内容为：admin
+[2023-10-12 15:55:07,710][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[2]/div/div[1]/input')
+[2023-10-12 15:55:07,775][base_page.py 52][INFO]: 输入的内容为：12345689
+[2023-10-12 15:55:07,775][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[3]/div/button')
+[2023-10-12 15:55:07,812][base_page.py 65][INFO]: 点击按钮
+[2023-10-12 15:55:07,812][base_page.py 28][INFO]: 当前定位：('xpath', "//p[contains(text(),'用户不存在/密码错误')]")
+[2023-10-12 15:55:08,479][base_page.py 146][INFO]: 元素是('xpath', "//p[contains(text(),'用户不存在/密码错误')]")的文本为用户不存在/密码错误
+[2023-10-12 15:55:08,479][assert_utils.py 12][INFO]: 预期结果：用户不存在/密码错误 == 用户不存在/密码错误
+[2023-10-12 15:55:08,479][assert_utils.py 30][INFO]: 断言成功
+[2023-10-12 15:55:08,484][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[1]/div/div[1]/input')
+[2023-10-12 15:55:08,553][base_page.py 52][INFO]: 输入的内容为：test
+[2023-10-12 15:55:08,554][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[2]/div/div[1]/input')
+[2023-10-12 15:55:08,620][base_page.py 52][INFO]: 输入的内容为：123456
+[2023-10-12 15:55:08,620][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[3]/div/button')
+[2023-10-12 15:55:08,657][base_page.py 65][INFO]: 点击按钮
+[2023-10-12 15:55:08,657][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/div[1]/div[1]/a/h1')
+[2023-10-12 15:55:09,460][base_page.py 146][INFO]: 元素是('xpath', '//*[@id="app"]/div[1]/div[1]/div[1]/a/h1')的文本为电恋生活管理系统
+[2023-10-12 15:55:09,460][assert_utils.py 12][INFO]: 预期结果：电恋生活管理系统 == 电恋生活管理系统
+[2023-10-12 15:55:09,460][assert_utils.py 30][INFO]: 断言成功
+[2023-10-12 15:57:37,549][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[1]/div/div[1]/input')
+[2023-10-12 15:57:37,650][base_page.py 52][INFO]: 输入的内容为：test11
+[2023-10-12 15:57:37,650][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[2]/div/div[1]/input')
+[2023-10-12 15:57:37,750][base_page.py 52][INFO]: 输入的内容为：123456
+[2023-10-12 15:57:37,750][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[3]/div/button')
+[2023-10-12 15:57:37,804][base_page.py 65][INFO]: 点击按钮
+[2023-10-12 15:57:37,804][base_page.py 28][INFO]: 当前定位：('xpath', '/html/body/div[2]/p')
+[2023-10-12 15:57:38,431][base_page.py 146][INFO]: 元素是('xpath', '/html/body/div[2]/p')的文本为登录用户：test11 不存在
+[2023-10-12 15:57:38,431][assert_utils.py 12][INFO]: 预期结果：登录用户：test11 不存在 == 登录用户：test11 不存在
+[2023-10-12 15:57:38,431][assert_utils.py 30][INFO]: 断言成功
+[2023-10-12 15:57:38,437][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[1]/div/div[1]/input')
+[2023-10-12 15:57:38,501][base_page.py 52][INFO]: 输入的内容为：test2
+[2023-10-12 15:57:38,502][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[2]/div/div[1]/input')
+[2023-10-12 15:57:38,564][base_page.py 52][INFO]: 输入的内容为：12345689
+[2023-10-12 15:57:38,565][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[3]/div/button')
+[2023-10-12 15:57:38,592][base_page.py 65][INFO]: 点击按钮
+[2023-10-12 15:57:38,592][base_page.py 28][INFO]: 当前定位：('xpath', "//p[contains(text(),'用户不存在/密码错误')]")
+[2023-10-12 15:57:39,259][base_page.py 146][INFO]: 元素是('xpath', "//p[contains(text(),'用户不存在/密码错误')]")的文本为用户不存在/密码错误
+[2023-10-12 15:57:39,259][assert_utils.py 12][INFO]: 预期结果：用户不存在/密码错误 == 用户不存在/密码错误
+[2023-10-12 15:57:39,259][assert_utils.py 30][INFO]: 断言成功
+[2023-10-12 15:57:39,263][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[1]/div/div[1]/input')
+[2023-10-12 15:57:39,322][base_page.py 52][INFO]: 输入的内容为：test
+[2023-10-12 15:57:39,322][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[2]/div/div[1]/input')
+[2023-10-12 15:57:39,378][base_page.py 52][INFO]: 输入的内容为：123456
+[2023-10-12 15:57:39,378][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[3]/div/button')
+[2023-10-12 15:57:39,404][base_page.py 65][INFO]: 点击按钮
+[2023-10-12 15:57:39,404][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/div[1]/div[1]/a/h1')
+[2023-10-12 15:57:40,109][base_page.py 146][INFO]: 元素是('xpath', '//*[@id="app"]/div[1]/div[1]/div[1]/a/h1')的文本为电恋生活管理系统
+[2023-10-12 15:57:40,109][assert_utils.py 12][INFO]: 预期结果：电恋生活管理系统 == 电恋生活管理系统
+[2023-10-12 15:57:40,110][assert_utils.py 30][INFO]: 断言成功
+[2023-10-12 16:05:41,427][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[1]/div/div[1]/input')
+[2023-10-12 16:05:41,532][base_page.py 52][INFO]: 输入的内容为：test11
+[2023-10-12 16:05:41,532][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[2]/div/div[1]/input')
+[2023-10-12 16:05:41,622][base_page.py 52][INFO]: 输入的内容为：123456
+[2023-10-12 16:05:41,623][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[3]/div/button')
+[2023-10-12 16:05:41,676][base_page.py 65][INFO]: 点击按钮
+[2023-10-12 16:05:41,677][base_page.py 28][INFO]: 当前定位：('xpath', '/html/body/div[2]/p')
+[2023-10-12 16:05:42,289][base_page.py 146][INFO]: 元素是('xpath', '/html/body/div[2]/p')的文本为登录用户：test11 不存在
+[2023-10-12 16:05:42,289][assert_utils.py 12][INFO]: 预期结果：登录用户：test11 不存在 == 登录用户：test11 不存在
+[2023-10-12 16:05:42,289][assert_utils.py 30][INFO]: 断言成功
+[2023-10-12 16:05:42,295][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[1]/div/div[1]/input')
+[2023-10-12 16:05:42,355][base_page.py 52][INFO]: 输入的内容为：test2
+[2023-10-12 16:05:42,355][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[2]/div/div[1]/input')
+[2023-10-12 16:05:42,426][base_page.py 52][INFO]: 输入的内容为：12345689
+[2023-10-12 16:05:42,427][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[3]/div/button')
+[2023-10-12 16:05:42,468][base_page.py 65][INFO]: 点击按钮
+[2023-10-12 16:05:42,469][base_page.py 28][INFO]: 当前定位：('xpath', "//p[contains(text(),'用户不存在/密码错误')]")
+[2023-10-12 16:05:43,133][base_page.py 146][INFO]: 元素是('xpath', "//p[contains(text(),'用户不存在/密码错误')]")的文本为用户不存在/密码错误
+[2023-10-12 16:05:43,133][assert_utils.py 12][INFO]: 预期结果：用户不存在/密码错误 == 用户不存在/密码错误
+[2023-10-12 16:05:43,133][assert_utils.py 30][INFO]: 断言成功
+[2023-10-12 16:05:43,140][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[1]/div/div[1]/input')
+[2023-10-12 16:05:43,201][base_page.py 52][INFO]: 输入的内容为：test
+[2023-10-12 16:05:43,201][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[2]/div/div[1]/input')
+[2023-10-12 16:05:43,282][base_page.py 52][INFO]: 输入的内容为：123456
+[2023-10-12 16:05:43,282][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[3]/div/button')
+[2023-10-12 16:05:43,317][base_page.py 65][INFO]: 点击按钮
+[2023-10-12 16:05:43,317][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/div[1]/div[1]/a/h1')
+[2023-10-12 16:05:45,032][base_page.py 146][INFO]: 元素是('xpath', '//*[@id="app"]/div[1]/div[1]/div[1]/a/h1')的文本为电恋生活管理系统
+[2023-10-12 16:05:45,032][assert_utils.py 12][INFO]: 预期结果：电恋生活管理系统 == 电恋生活管理系统
+[2023-10-12 16:05:45,032][assert_utils.py 30][INFO]: 断言成功
+[2023-10-12 16:14:28,960][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[1]/div/div[1]/input')
+[2023-10-12 16:14:29,070][base_page.py 52][INFO]: 输入的内容为：test11
+[2023-10-12 16:14:29,070][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[2]/div/div[1]/input')
+[2023-10-12 16:14:29,157][base_page.py 52][INFO]: 输入的内容为：123456
+[2023-10-12 16:14:29,158][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[3]/div/button')
+[2023-10-12 16:14:29,211][base_page.py 65][INFO]: 点击按钮
+[2023-10-12 16:14:29,211][base_page.py 28][INFO]: 当前定位：('xpath', '/html/body/div[2]/p')
+[2023-10-12 16:14:29,827][base_page.py 146][INFO]: 元素是('xpath', '/html/body/div[2]/p')的文本为登录用户：test11 不存在
+[2023-10-12 16:14:29,827][assert_utils.py 12][INFO]: 预期结果：登录用户：test11 不存在 == 登录用户：test11 不存在
+[2023-10-12 16:14:29,827][assert_utils.py 30][INFO]: 断言成功
+[2023-10-12 16:14:29,867][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[1]/div/div[1]/input')
+[2023-10-12 16:14:29,926][base_page.py 52][INFO]: 输入的内容为：test2
+[2023-10-12 16:14:29,926][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[2]/div/div[1]/input')
+[2023-10-12 16:14:30,013][base_page.py 52][INFO]: 输入的内容为：12345689
+[2023-10-12 16:14:30,013][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[3]/div/button')
+[2023-10-12 16:14:30,044][base_page.py 65][INFO]: 点击按钮
+[2023-10-12 16:14:30,045][base_page.py 28][INFO]: 当前定位：('xpath', "//p[contains(text(),'用户不存在/密码错误')]")
+[2023-10-12 16:14:30,711][base_page.py 146][INFO]: 元素是('xpath', "//p[contains(text(),'用户不存在/密码错误')]")的文本为用户不存在/密码错误
+[2023-10-12 16:14:30,711][assert_utils.py 12][INFO]: 预期结果：用户不存在/密码错误 == 用户不存在/密码错误
+[2023-10-12 16:14:30,711][assert_utils.py 30][INFO]: 断言成功
+[2023-10-12 16:14:30,755][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[1]/div/div[1]/input')
+[2023-10-12 16:14:30,830][base_page.py 52][INFO]: 输入的内容为：test
+[2023-10-12 16:14:30,830][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[2]/div/div[1]/input')
+[2023-10-12 16:14:30,891][base_page.py 52][INFO]: 输入的内容为：123456
+[2023-10-12 16:14:30,892][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[3]/div/button')
+[2023-10-12 16:14:30,922][base_page.py 65][INFO]: 点击按钮
+[2023-10-12 16:14:30,922][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/div[1]/div[1]/a/h1')
+[2023-10-12 16:14:31,360][base_page.py 146][INFO]: 元素是('xpath', '//*[@id="app"]/div[1]/div[1]/div[1]/a/h1')的文本为电恋生活管理系统
+[2023-10-12 16:14:31,361][assert_utils.py 12][INFO]: 预期结果：电恋生活管理系统 == 电恋生活管理系统
+[2023-10-12 16:14:31,361][assert_utils.py 30][INFO]: 断言成功
+[2023-10-12 16:15:38,709][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[1]/div/div[1]/input')
+[2023-10-12 16:15:38,827][base_page.py 52][INFO]: 输入的内容为：test11
+[2023-10-12 16:15:38,828][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[2]/div/div[1]/input')
+[2023-10-12 16:15:38,911][base_page.py 52][INFO]: 输入的内容为：123456
+[2023-10-12 16:15:38,912][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[3]/div/button')
+[2023-10-12 16:15:38,959][base_page.py 65][INFO]: 点击按钮
+[2023-10-12 16:15:38,960][base_page.py 28][INFO]: 当前定位：('xpath', '/html/body/div[2]/p')
+[2023-10-12 16:15:40,388][base_page.py 146][INFO]: 元素是('xpath', '/html/body/div[2]/p')的文本为登录用户：test11 不存在
+[2023-10-12 16:15:40,388][assert_utils.py 12][INFO]: 预期结果：登录用户：test11 不存在 == 登录用户：test11 不存在
+[2023-10-12 16:15:40,388][assert_utils.py 30][INFO]: 断言成功
+[2023-10-12 16:15:40,393][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[1]/div/div[1]/input')
+[2023-10-12 16:15:40,447][base_page.py 52][INFO]: 输入的内容为：test6
+[2023-10-12 16:15:40,448][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[2]/div/div[1]/input')
+[2023-10-12 16:15:40,509][base_page.py 52][INFO]: 输入的内容为：12345689
+[2023-10-12 16:15:40,509][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[3]/div/button')
+[2023-10-12 16:15:40,538][base_page.py 65][INFO]: 点击按钮
+[2023-10-12 16:15:40,539][base_page.py 28][INFO]: 当前定位：('xpath', "//p[contains(text(),'用户不存在/密码错误')]")
+[2023-10-12 16:15:41,201][base_page.py 146][INFO]: 元素是('xpath', "//p[contains(text(),'用户不存在/密码错误')]")的文本为用户不存在/密码错误
+[2023-10-12 16:15:41,201][assert_utils.py 12][INFO]: 预期结果：用户不存在/密码错误 == 用户不存在/密码错误
+[2023-10-12 16:15:41,201][assert_utils.py 30][INFO]: 断言成功
+[2023-10-12 16:15:41,205][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[1]/div/div[1]/input')
+[2023-10-12 16:15:41,255][base_page.py 52][INFO]: 输入的内容为：test
+[2023-10-12 16:15:41,256][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[2]/div/div[1]/input')
+[2023-10-12 16:15:41,315][base_page.py 52][INFO]: 输入的内容为：123456
+[2023-10-12 16:15:41,315][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[3]/div/button')
+[2023-10-12 16:15:41,343][base_page.py 65][INFO]: 点击按钮
+[2023-10-12 16:15:41,343][base_page.py 28][INFO]: 当前定位：('xpath', '//*[@id="app"]/div[1]/div[1]/div[1]/a/h1')
+[2023-10-12 16:15:42,172][base_page.py 146][INFO]: 元素是('xpath', '//*[@id="app"]/div[1]/div[1]/div[1]/a/h1')的文本为电恋生活管理系统
+[2023-10-12 16:15:42,173][assert_utils.py 12][INFO]: 预期结果：电恋生活管理系统 == 电恋生活管理系统
+[2023-10-12 16:15:42,173][assert_utils.py 30][INFO]: 断言成功

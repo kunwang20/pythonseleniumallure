@@ -1,0 +1,12 @@
+login_test:
+  - username:
+    passwd:
+    expect:
+
+  - username:
+    passwd:
+    expect:
+
+  - username:
+    passwd:
+    expect:

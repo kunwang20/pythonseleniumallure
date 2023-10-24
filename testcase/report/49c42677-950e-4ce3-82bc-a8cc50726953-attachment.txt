@@ -1,0 +1,18 @@
+INFO     log:base_page.py:28 当前定位：('xpath', "//body/div[@id='app']/div[1]/div[2]/div[1]/div[1]/div[3]/div[4]/div[1]/img[1]")
+INFO     log:base_page.py:65 点击按钮
+INFO     log:base_page.py:28 当前定位：('xpath', "//li[contains(text(),'个人中心')]")
+INFO     log:base_page.py:65 点击按钮
+INFO     log:base_page.py:28 当前定位：('xpath', "//div[@id='tab-resetPwd']")
+INFO     log:base_page.py:65 点击按钮
+INFO     log:base_page.py:28 当前定位：('xpath', "//body/div[@id='app']/div[1]/div[2]/section[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/form[1]/div[1]/div[1]/div[1]/input[1]")
+INFO     log:base_page.py:52 输入的内容为：123456
+INFO     log:base_page.py:28 当前定位：('xpath', "//body/div[@id='app']/div[1]/div[2]/section[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/form[1]/div[2]/div[1]/div[1]/input[1]")
+INFO     log:base_page.py:52 输入的内容为：123456
+INFO     log:base_page.py:28 当前定位：('xpath', "//body/div[@id='app']/div[1]/div[2]/section[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/form[1]/div[3]/div[1]/div[1]/input[1]")
+INFO     log:base_page.py:52 输入的内容为：123456
+INFO     log:base_page.py:28 当前定位：('xpath', '//body[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/form[1]/div[4]/div[1]/button[1]/span[1]')
+INFO     log:base_page.py:65 点击按钮
+INFO     log:base_page.py:28 当前定位：('xpath', "//p[contains(text(),'新密码不能与旧密码相同')]")
+INFO     log:base_page.py:146 元素是('xpath', "//p[contains(text(),'新密码不能与旧密码相同')]")的文本为新密码不能与旧密码相同
+INFO     log:assert_utils.py:12 预期结果：新密码不能与旧密码相同 == 新密码不能与旧密码相同
+INFO     log:assert_utils.py:30 断言成功

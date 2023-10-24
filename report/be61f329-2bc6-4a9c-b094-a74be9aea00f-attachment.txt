@@ -1,0 +1,24 @@
+INFO     log:base_page.py:28 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[1]/div/div[1]/input')
+INFO     log:base_page.py:52 输入的内容为：test
+INFO     log:base_page.py:28 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[2]/div/div[1]/input')
+INFO     log:base_page.py:52 输入的内容为：123456
+INFO     log:base_page.py:28 当前定位：('xpath', '//*[@id="app"]/div[1]/form/div[3]/div/button')
+INFO     log:base_page.py:65 点击按钮
+INFO     log:base_page.py:28 当前定位：('xpath', "//body/div[@id='app']/div[1]/div[2]/div[1]/div[1]/div[3]/div[4]/div[1]/img[1]")
+INFO     log:base_page.py:65 点击按钮
+INFO     log:base_page.py:28 当前定位：('xpath', "//li[contains(text(),'个人中心')]")
+INFO     log:base_page.py:65 点击按钮
+INFO     log:base_page.py:28 当前定位：('xpath', "//body/div[@id='app']/div[1]/div[2]/section[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/form[1]/div[1]/div[1]/div[1]/input[1]")
+INFO     log:base_page.py:52 输入的内容为：测试手机号不正确
+INFO     log:base_page.py:28 当前定位：('xpath', "//body/div[@id='app']/div[1]/div[2]/section[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/form[1]/div[2]/div[1]/div[1]/input[1]")
+INFO     log:base_page.py:52 输入的内容为：11111111111
+INFO     log:base_page.py:28 当前定位：('xpath', "//body/div[@id='app']/div[1]/div[2]/section[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/form[1]/div[3]/div[1]/div[1]/input[1]")
+INFO     log:base_page.py:52 输入的内容为：1209869439@qq.com
+INFO     log:base_page.py:28 当前定位：('xpath', "//body/div[@id='app']/div[1]/div[2]/section[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/form[1]/div[4]/div[1]/div[1]/label[2]/span[1]/span[1]")
+INFO     log:base_page.py:65 点击按钮
+INFO     log:base_page.py:28 当前定位：('xpath', '//body[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/form[1]/div[5]/div[1]/button[1]/span[1]')
+INFO     log:base_page.py:65 点击按钮
+INFO     log:base_page.py:28 当前定位：('xpath', "//div[contains(text(),'请输入正确的手机号码')]")
+INFO     log:base_page.py:146 元素是('xpath', "//div[contains(text(),'请输入正确的手机号码')]")的文本为请输入正确的手机号码
+INFO     log:assert_utils.py:12 预期结果：请输入正确的手机号码 == 请输入正确的手机号码
+INFO     log:assert_utils.py:30 断言成功
